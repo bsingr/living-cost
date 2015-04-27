@@ -1,0 +1,20 @@
+{
+  "name": "living-cost",
+  "version": "1.0.0",
+  "description": "## Data",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "^1.3.9",
+    "node-static": "^0.7.4",
+    "livereload": "^0.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
